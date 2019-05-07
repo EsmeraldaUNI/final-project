@@ -8,4 +8,4 @@ Final Completion for Classes:
 Done   | Not Done
 -------|--------
 Practicum | IDC2
-IDV    |Global marketing 
+IDV    |Global Marketing 
